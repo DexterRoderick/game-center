@@ -22,4 +22,13 @@ Custom Scripting Probably - If you have any C# XNA code that can help please ema
 PHOTO & SLIDESHOW PLAYBACK:
 Custom Scripting Probably - If you have any C# XNA code that can help please email us.
 
+RSS READER: 
+Custom Scripting Probably - If you have any C# XNA code that can help please email us.
+
+INTERNET TV STREAMING:
+Custom Scripting Probably - If you have any C# XNA code that can help please email us.
+
+XBOX 360 CONTROLLER:
+Using the native components within XNA.
+
 MORE TO COME!
