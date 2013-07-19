@@ -38,3 +38,5 @@ Can I Help?
 
 YES! Just email dexter.roderick@gmail.com with what you can do or how you think you'll be able to help
 and I'll contact you with how to get started.
+
+Also, add your suggestions by pulling the SUGGEST file and adding using the guide inside the file.
