@@ -69,8 +69,10 @@ DotNetOpenAuth - https://github.com/DotNetOpenAuth/DotNetOpenAuth
 SPEEDING UP CONTENT LOAD:
 http://jakepoz.com/jake_poznanski__speeding_up_xna.html
 
+TWEENING:
+XNATweener - Handles some animation of gui (possibly) - http://xnatweener.codeplex.com/
 
-
-
+NOTIFICATIONS:
+XNA Notification Box Sample - Base code for notifications - http://www.codeproject.com/Articles/105481/XNA-Notification-Box
 
 MORE TO COME!
