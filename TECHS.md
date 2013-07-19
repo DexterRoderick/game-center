@@ -21,6 +21,7 @@ XNA Video Playback on a Surface - http://msdn.microsoft.com/en-us/library/dd9041
 
 AUDIO PLAYBACK:
 Custom Scripting Probably - If you have any C# XNA code that can help please email us.
+Custom Scripting based on http://www.youtube.com/watch?v=UfU3cbqQXO4
 
 PHOTO & SLIDESHOW PLAYBACK:
 Custom Scripting Probably - If you have any C# XNA code that can help please email us.
@@ -46,6 +47,19 @@ COMMUNICATIONS/SOCIAL:
 Threeter - Handle Twitter Communication - http://threeter.codeplex.com/
 GoogleTalk & Voice - Needs Code
 FacebookSDK - http://facebooksdk.net/
+
+SOUNDCLOUD INTEGRATION:
+Soundcloud.NET - https://github.com/Haythem/SoundCloud.NET
+Simple Coundcloud Client - www.geeklife.ch/dev/soundcloud-client-c/
+SoundcloudProviderClass - https://github.com/iEmiya/SoundCloudProvider
+Soundcloud Csharp - code.google.com/p/soundcloudcsharp/
+
+LAST.FM INTEGRATION:
+LastFM# - http://code.google.com/p/lastfm-sharp/
+Lastfmlibnet - http://lastfmlibnet.sourceforge.net/index.php?page=about
+
+EMAIL:
+.NET Framework - http://msdn.microsoft.com/en-us/library/k0y6s613.aspx
 
 
 
