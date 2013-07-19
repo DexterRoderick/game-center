@@ -6,7 +6,7 @@ Game and Media Entertainment Center
 About the project
 ===========
 
-GAMEcenter is a new Steam/Desura/XBMC/MythTV smash-up being developed from scratch.
+GAMEcenter is a new Steam/Desura/XBMC/MythTV/MediaPortal smash-up being developed from scratch.
 
 Features
 ===========
