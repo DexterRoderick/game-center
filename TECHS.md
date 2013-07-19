@@ -61,6 +61,14 @@ Lastfmlibnet - http://lastfmlibnet.sourceforge.net/index.php?page=about
 EMAIL:
 .NET Framework - http://msdn.microsoft.com/en-us/library/k0y6s613.aspx
 
+OpenID, OAuth and InfoCard PROTOCOLS:
+DotNetOpenAuth - https://github.com/DotNetOpenAuth/DotNetOpenAuth
+
+SPEEDING UP CONTENT LOAD:
+http://jakepoz.com/jake_poznanski__speeding_up_xna.html
+
+
+
 
 
 MORE TO COME!
