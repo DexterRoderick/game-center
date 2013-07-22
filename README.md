@@ -1,7 +1,7 @@
-game-center
-===========
+GAME Center
+==========
+<h3>A.K.A Game and Media Entertainment Center</h3>
 
-Game and Media Entertainment Center
 
 About the project
 ===========
@@ -40,3 +40,8 @@ YES! Just email dexter.roderick@gmail.com with what you can do or how you think 
 and I'll contact you with how to get started.
 
 Also, add your suggestions by pulling the SUGGEST file and adding using the guide inside the file.
+
+Contributers
+===========
+Dexter Roderick (@DexterRoderick) - Lead Coder/Designer
+David T (no GitHub yet) - PHP Server Coder / C# Coder
