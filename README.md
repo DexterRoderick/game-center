@@ -41,8 +41,8 @@ and I'll contact you with how to get started.
 
 Also, add your suggestions by pulling the SUGGEST file and adding using the guide inside the file.
 
-Contributers
+Contributors
 ===========
-Dexter Roderick (@DexterRoderick) - Lead Coder/Designer
+Dexter Roderick (@DexterRoderick) - Lead Coder / Designer
 
-David T (no GitHub yet) - PHP Server Coder / C# Coder
+David T (@DawieT) - PHP / C# Coder
